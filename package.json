@@ -1,0 +1,30 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic tac toe cli game",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyrlee/Tic-Tac-Toe.git"
+  },
+  "keywords": [
+    "tic",
+    "tac",
+    "toe",
+    "cli",
+    "command",
+    "line"
+  ],
+  "author": "joey lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyrlee/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/joeyrlee/Tic-Tac-Toe#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
