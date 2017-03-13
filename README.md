@@ -1,2 +1,4 @@
 # Tic-Tac-Toe
-command line tic tac toe game
+A minimalistic command line tic tac toe game that's fun and easy to use.
+
+###Getting Started
